@@ -4,7 +4,7 @@
   "description": "Simple json config.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/gulp/bin/gulp"
+    "test": "./node_modules/lab/bin/lab -c test/*.spec.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/Dignfiedquire/confucius/issues"
   },
-  "homepage": "https://github.com/Dignfiedquire/confucius"
+  "homepage": "https://github.com/Dignfiedquire/confucius",
+  "dependencies": {
+    "js-yaml": "^3.0.2",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "lab": "^3.2.1"
+  }
 }
