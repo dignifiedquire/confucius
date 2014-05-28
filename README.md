@@ -28,3 +28,14 @@ This will **synchronously**
   result.
 * Deep merge the defaults object onto the result.
 * Return the resulting object.
+
+
+## Development
+
+Clone and run `npm install`.
+
+Execut the tests with
+
+```bash
+$ npm test
+```
