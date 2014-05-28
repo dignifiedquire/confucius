@@ -1,0 +1,24 @@
+{
+  "name": "confucius",
+  "version": "0.1.0",
+  "description": "Simple json config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/gulp/bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Dignfiedquire/confucius.git"
+  },
+  "keywords": [
+    "config",
+    "json",
+    "configuration"
+  ],
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dignfiedquire/confucius/issues"
+  },
+  "homepage": "https://github.com/Dignfiedquire/confucius"
+}
